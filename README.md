@@ -21,7 +21,7 @@ A modern, glassmorphic personal developer portfolio built entirely with HTML, CS
     *   **Projects:** Grid layout for selected works with image previews and technology tags.
     *   **Contact:** Social links and a direct contact form.
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 *   **HTML5:** Semantic markup and structure.
 *   **CSS3:** Vanilla CSS for styling (Flexbox, Grid, CSS Variables, Animations, Backdrop-filter).
