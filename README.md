@@ -32,7 +32,7 @@ A modern, glassmorphic personal developer portfolio built entirely with HTML, CS
 
 ```
 /
-├── index.html       # Landing/Hero page
+├── index.html       # Landing page
 ├── about.html       # About Me, Skills, Education
 ├── projects.html    # Selected works and portfolio pieces
 ├── contact.html     # Contact form and social links
